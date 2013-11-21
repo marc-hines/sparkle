@@ -1,0 +1,11 @@
+
+ 
+IMPORTANT NOTE: ON ALL CREATED TEXT FILE:
+
+1) Replace the \ with nothing.
+
+2) Replace the "ÿÿÿ" with "-0-",  "ÿ" with "-0-" in:
+  CKDTL.TXT
+  CKDTL2.TXT
+  SALE_DTL.TXT
+  SALE2ARC.TXT

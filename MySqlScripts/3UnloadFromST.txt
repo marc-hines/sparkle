@@ -1,0 +1,129 @@
+
+   Tables in the Database MAIN
+
+   Name    Columns   Rows               Name    Columns   Rows
+
+   reports       2   1263               Forms         2   1537
+   prncodes     11      3               messages      2      6
+   note:arc      3  13831               jobcode       4      8
+   ckdtl         9     67               ckdtl2        9  75848
+   cal           5    157               cust         16   2651
+   temp          1    445               sale:inv     13    457
+   sale:arc     11  13945               empl:arc      8  36060
+   globset      23      1               wkdays        2     14
+   notes         3   2850               job          16   2698
+   empl         11    215               sale2arc     21  31796
+   payroll      17 107613               job:dtl      24   5395
+   factors       2     18               zone          2      1
+   sale:DTL     23   4093               Rules         8     30
+                             
+
+Unload menu command:
+
+output >c:/stup/reports.txt
+upload data from >reports
+using <all> >all
+where >
+
+
+c:/stup/globset.txt
+globset
+all
+
+c:/stup/jobcode.txt
+jobcode
+all
+
+c:/stup/job.txt
+job
+all
+
+c:/stup/job_dtl.txt
+job:dtl
+all
+
+c:/stup/cust.txt
+cust
+all
+
+c:/stup/empl.txt
+empl
+all
+
+c:/stup/empl_arc.txt
+empl:arc
+all
+
+c:/stup/sale_inv.txt
+sale:inv
+all
+
+c:/stup/sale_arc.txt
+sale:arc
+all
+
+c:/stup/sale2arc.txt
+sale2arc
+all
+
+c:/stup/sale_DTL.txt
+sale:DTL
+all
+
+c:/stup/payroll.txt
+payroll
+all
+
+c:/stup/ckdtl.txt
+ckdtl
+all
+
+c:/stup/ckdtl2.txt
+ckdtl2
+all
+
+c:/stup/messages.txt
+messages
+all
+
+c:/stup/notes.txt
+notes
+all
+
+c:/stup/note_arc.txt
+note:arc
+all
+
+c:/stup/zone.txt
+zone
+all
+
+c:/stup/reports.txt
+reports
+all
+
+c:/stup/Forms.txt
+Forms
+all
+
+c:/stup/prncodes.txt
+prncodes
+all
+
+c:/stup/factors.txt
+factors
+all
+
+c:/stup/Rules.txt
+Rules
+all
+
+c:/stup/cal.txt
+cal
+all
+
+c:/stup/wkdays.txt
+wkdays
+all
+
+
