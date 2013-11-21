@@ -1,0 +1,71 @@
+.icon-user {
+    background-image: url(images/white_user.png) !important;
+}
+
+.icon-customer {
+    background-image: url(images/white_cust.png) !important;
+}
+
+.icon-employee {
+    background-image: url(images/white_emp.png) !important;
+}
+
+.icon-message {
+    background-image: url(images/white_message.png) !important;
+}
+
+.icon-job {
+    background-image: url(images/white_job.png) !important;
+}
+
+.icon-jobcode {
+    background-image: url(images/white_jobcode.png) !important;
+}
+
+.icon-receivable {
+    background-image: url(images/white_receivable.png) !important;
+}
+
+.icon-search {
+    background-image: url(images/white_search.png) !important;
+}
+
+.icon-invoice {
+    background-image: url(images/white_invoice.png) !important;
+}
+
+.icon-settings {
+    background-image: url(images/white_settings.png) !important;
+}
+
+.icon-payroll {
+    background-image: url(images/white_payroll.png) !important;
+}
+
+.icon-payment {
+    background-image: url(images/white_payment.png) !important;
+}
+
+.icon-workorder {
+    background-image: url(images/white_workorder.png) !important;
+}
+
+.icon-add {
+    background-image: url(images/white_add.png) !important;
+}
+
+.icon-delete {
+    background-image: url(images/white_delete.png) !important;
+}
+
+.icon-refresh {
+    background-image: url(images/white_refresh.png) !important;
+}
+
+.icon-save {
+    background-image: url(images/white_save.png) !important;
+}
+
+.icon-cancel {
+    background-image: url(images/white_cancel.png) !important;
+}
