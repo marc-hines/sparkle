@@ -709,7 +709,7 @@ CREATE FUNCTION sparkle_app.fn_invoice_zero_out(v_invoice_dbid BIGINT UNSIGNED, 
 
 BEGIN
 
-    DECLARE v_total_adjustment DECIMAL(21,2);
+  DECLARE v_total_adjustment DECIMAL(21,2);
 	DECLARE v_activity_date TIMESTAMP;
 	DECLARE v_customer_dbid BIGINT UNSIGNED;
 	DECLARE v_payment_dbid BIGINT UNSIGNED;
